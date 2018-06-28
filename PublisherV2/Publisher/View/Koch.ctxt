@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Koch
+comment1.params=
+comment1.target=Koch()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=i\ xp12\ yp12\ xp22\ yp22\ c
+comment3.target=void\ paintRecursivo(int,\ double,\ double,\ double,\ double,\ java.awt.Color)
+comment4.params=x\ y\ x1\ y1\ c
+comment4.target=void\ line(int,\ int,\ int,\ int,\ java.awt.Color)
+comment5.params=points\ color
+comment5.target=void\ drawnPoint(java.util.ArrayList,\ int)
+numComments=6

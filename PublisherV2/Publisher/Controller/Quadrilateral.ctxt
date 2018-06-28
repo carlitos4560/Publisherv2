@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Quadrilateral
+comment1.params=point1\ point3
+comment1.target=Quadrilateral(Publisher.Library.Point2D,\ Publisher.Library.Point2D)
+comment10.params=point
+comment10.target=void\ addPoinst(java.util.ArrayList)
+comment11.params=x\ y
+comment11.target=void\ translate(int,\ int)
+comment12.params=d
+comment12.target=void\ scaleCuadrilatero(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getPoint2DQuadrilateral()
+comment3.params=p
+comment3.target=void\ setPoint1(Publisher.Library.Point2D)
+comment4.params=p
+comment4.target=void\ setPoint3(Publisher.Library.Point2D)
+comment5.params=
+comment5.target=Publisher.Library.Point2D\ getPoint1()
+comment6.params=
+comment6.target=Publisher.Library.Point2D\ getPoint2()
+comment7.params=
+comment7.target=Publisher.Library.Point2D\ getPoint3()
+comment8.params=
+comment8.target=Publisher.Library.Point2D\ getPoint4()
+comment9.params=
+comment9.target=void\ point2DQuadrilateral()
+numComments=13
